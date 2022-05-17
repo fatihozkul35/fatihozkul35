@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
+
 <h3 align="center">Full Stack Web Developer</h3>
+
 <img align="right" alt="coding" width="400" src="https://ak.picdn.net/shutterstock/videos/8991565/thumb/1.jpg">
 
 - 🌱 I’m currently learning **nextJS, Sytled System usw.**
@@ -10,7 +12,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/fatih-ozkul35/**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
