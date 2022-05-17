@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">Full Stack Web Developer</h3>
+<img align="right" alt="coding" width="400" src="https://ak.picdn.net/shutterstock/videos/8991565/thumb/1.jpg">
 
 - 🌱 I’m currently learning **nextJS, Sytled System usw.**
 
