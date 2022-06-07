@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://ak.picdn.net/shutterstock/videos/8991565/thumb/1.jpg">
 
-- 🌱 I’m currently learning **nextJS, Sytled System usw.**
+- 🌱 I’m currently learning **TypeScript, nextJS usw.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fatihozkul35?tab=stars](https://github.com/fatihozkul35?tab=stars)
 
