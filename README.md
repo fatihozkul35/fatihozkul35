@@ -4,11 +4,11 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **TypeScript, nextJS usw.**
+- 🌱 I'm currently interested in projects***
 
 - 👨‍💻 All of my projects are available at [https://github.com/fatihozkul35?tab=stars](https://github.com/fatihozkul35?tab=stars)
 
-- 💬 Ask me about **react,javascript, HTML5 CSS3 SASS**
+- 💬 Ask me about **react,javascript, HTML5 CSS3 SASS, Django**
 
 - 📫 How to reach me **https://www.linkedin.com/in/fatih-ozkul35/**
 
