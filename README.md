@@ -11,6 +11,8 @@
 - 💬 Ask me about **react,javascript, HTML5 CSS3 SASS, Django**
 
 - 📫 How to reach me **https://www.linkedin.com/in/fatih-ozkul35/**
+- - 📫 How to reach me ... 
+[![gmail](https://www.linkedin.com/in/fatih-ozkul35/)](mailto:fatihozkul3541@gmail.com)
 
 
 <p align="left">
